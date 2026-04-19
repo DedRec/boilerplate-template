@@ -1,6 +1,6 @@
 # Project Boilerplate Template
 
-This template is a reusable starter repository you can publish on GitHub as a template repo.
+This repository is a reusable starter template for initializing new projects quickly.
 
 It includes the six required top-level folders:
 
@@ -13,7 +13,7 @@ It includes the six required top-level folders:
 
 ## Why This Exists
 
-Use this template to start new projects with a consistent layout, shared conventions, and documented setup expectations.
+This template exists to avoid rebuilding the same initial structure and baseline conventions for every new project.
 
 ## Folder Structure
 
@@ -31,20 +31,17 @@ Each folder includes a small README (or `.gitkeep`) so the structure is tracked 
 
 ## How To Use On GitHub
 
-1. Create a new repository and push this folder content.
+1. Push this repository to GitHub.
 2. Open repository **Settings**.
 3. Enable **Template repository**.
-4. Click **Use this template** whenever you need a new project.
+4. Click **Use this template** whenever a new project is needed.
 
 Reference: GitHub Docs - Creating a template repository.
 
 ## What To Customize First
 
 1. Replace placeholder values in `.env.example`.
-2. Choose your actual license details in `LICENSE`.
+2. Set the license details in `LICENSE`.
 3. Update `README.md` with project-specific goals.
 4. Add stack-specific files inside `client/` and `src/`.
 
-## Verified Best-Practice Notes
-
-See `docs/boilerplate_best_practices.md` for source-backed rationale and links used to shape this template.
